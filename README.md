@@ -69,3 +69,5 @@ composer install
 ```bash
 php artisan migrate
 ```
+
+## 8.修改AppController控制器中的邮件接收人
